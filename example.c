@@ -146,3 +146,47 @@ int main(void)
   
   return 0;
 }
+
+/* Console Output:
+17
+Start of integer array:
+0: 0
+1: 1
+2: 0
+3: 0
+4: 0
+5: 0
+6: 0
+7: 0
+8: 0
+9: 0
+10: 0
+11: 0
+12: 0
+13: 17
+14: 0
+15: 0
+16: 0
+17: 0
+18: 0
+19: 0
+20: 0
+21: 0
+22: 0
+23: 0
+24: 9383
+End of integer array.
+The string key was found.
+The integer key was found.
+The integer array key was found.
+The structure key was found.
+The structure array key was found.
+The float key was found.
+The float-containing structure key was found.
+The not-yet-added string key was NOT found.
+The not-yet-added integer key was NOT found.
+The not-yet-added long long integer key was NOT found.
+The now-added long long integer key was found.
+
+Process finished.
+*/
