@@ -2,6 +2,7 @@
 #define C_MAP_HEADER
 
 #include <stdlib.h>
+#include <string.h>
 
 struct ElementIndexer
 {
